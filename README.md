@@ -8,5 +8,5 @@ This base was made as my base to develop a cheat for various games.
 ```
 https://github.com/ts0ra/learn-imgui.git
 ```
-2. Open the .sln file in Visual Studio
+2. Open the .sln file in Visual Studio 2022
 3. Build the project
